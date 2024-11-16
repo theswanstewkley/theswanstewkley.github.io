@@ -46,6 +46,10 @@ a:link {
    color:inherit;
 }
 
+a {
+    color: inherit;
+}
+
 .social-media {
     display: flex;
     justify-content: center;
